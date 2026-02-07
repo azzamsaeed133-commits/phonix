@@ -1,0 +1,136 @@
+{
+  "inventory": {
+    "last_updated": "2026-02-08",
+    "total_models": 80,
+    "categories": [
+      {
+        "brand": "Apple",
+        "series": "iPhone 17 Series (2026)",
+        "models": [
+          {
+            "id": "iph-17-pm",
+            "name": "iPhone 17 Pro Max",
+            "specs": {
+              "processor": "A19 Pro (3nm)",
+              "ram": "12GB LPDDR5X",
+              "display": "6.9-inch LTPO OLED, 120Hz, 3000 nits",
+              "battery": "4852 mAh, 45W Fast Charging",
+              "camera": "48MP Main, 48MP Periscope (5x), 48MP Ultra Wide",
+              "build": "Titanium Grade 5, Ceramic Shield",
+              "connectivity": "5G, Wi-Fi 7, Bluetooth 5.4"
+            },
+            "image_url": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-17-Pro-Max-white-background.jpg"
+          },
+          {
+            "id": "iph-17-air",
+            "name": "iPhone 17 Air (Slim)",
+            "specs": {
+              "processor": "A19 Standard",
+              "ram": "8GB",
+              "display": "6.6-inch OLED, 120Hz ProMotion",
+              "battery": "3150 mAh, Ultra-Slim Design",
+              "camera": "48MP Single Advanced Main",
+              "build": "Aluminum-Magnesium Alloy",
+              "connectivity": "5G, Wi-Fi 7"
+            },
+            "image_url": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-17-Air-slim-render.jpg"
+          }
+        ]
+      },
+      {
+        "brand": "Samsung",
+        "series": "Galaxy S26 Series (2026)",
+        "models": [
+          {
+            "id": "sam-s26-u",
+            "name": "Samsung Galaxy S26 Ultra",
+            "specs": {
+              "processor": "Snapdragon 8 Elite Gen 5",
+              "ram": "16GB",
+              "display": "6.8-inch Dynamic AMOLED 2X, 144Hz",
+              "battery": "5000 mAh, 65W Wired, 25W Wireless",
+              "camera": "200MP Main, 50MP Periscope, 50MP Telephoto",
+              "build": "Titanium Grade 3, Gorilla Armor 2",
+              "connectivity": "5G, Wi-Fi 7, Galaxy AI 2.0"
+            },
+            "image_url": "https://images.samsung.com/is/image/samsung/p6pim/s26-ultra-white-front.jpg"
+          }
+        ]
+      },
+      {
+        "brand": "Apple",
+        "series": "Legacy & Best Sellers",
+        "models": [
+          {
+            "id": "iph-15-pm",
+            "name": "iPhone 15 Pro Max",
+            "specs": {
+              "processor": "A17 Pro",
+              "ram": "8GB",
+              "display": "6.7-inch Super Retina XDR",
+              "battery": "4441 mAh, USB-C 3.0",
+              "camera": "48MP Main, 12MP Periscope (5x)",
+              "build": "Titanium, Ceramic Shield",
+              "connectivity": "5G, Bluetooth 5.3"
+            },
+            "image_url": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-15-Pro-Max-Titanium.jpg"
+          },
+          {
+            "id": "iph-11-std",
+            "name": "iPhone 11",
+            "specs": {
+              "processor": "A13 Bionic",
+              "ram": "4GB",
+              "display": "6.1-inch Liquid Retina IPS LCD",
+              "battery": "3110 mAh, 18W Charging",
+              "camera": "12MP Main, 12MP Ultra Wide",
+              "build": "Glass front/back, Aluminum frame",
+              "connectivity": "4G LTE, Wi-Fi 6"
+            },
+            "image_url": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-11-white.jpg"
+          }
+        ]
+      },
+      {
+        "brand": "Samsung",
+        "series": "Galaxy A Series",
+        "models": [
+          {
+            "id": "sam-a56",
+            "name": "Samsung Galaxy A56",
+            "specs": {
+              "processor": "Exynos 1580 (4nm)",
+              "ram": "8GB/12GB",
+              "display": "6.6-inch Super AMOLED, 120Hz",
+              "battery": "5000 mAh, 45W Fast Charging",
+              "camera": "50MP OIS, 12MP Ultra Wide, 5MP Macro",
+              "build": "Glass front, Plastic frame (Premium finish)",
+              "connectivity": "5G, Wi-Fi 6E"
+            },
+            "image_url": "https://images.samsung.com/is/image/samsung/p6pim/a56-awesome-white.jpg"
+          }
+        ]
+      },
+      {
+        "brand": "Google",
+        "series": "Pixel Series (US Stock)",
+        "models": [
+          {
+            "id": "pix-9-p",
+            "name": "Google Pixel 9 Pro",
+            "specs": {
+              "processor": "Google Tensor G4",
+              "ram": "16GB",
+              "display": "6.3-inch Super Actua Display, 120Hz",
+              "battery": "4700 mAh, Fast Charging",
+              "camera": "50MP Main, 48MP Ultra Wide, 48MP Tele",
+              "build": "Polished Metal, Matte Glass",
+              "connectivity": "5G, Wi-Fi 7, Gemini AI Integrated"
+            },
+            "image_url": "https://lh3.googleusercontent.com/pixel-9-pro-white-bg.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
